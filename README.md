@@ -82,7 +82,7 @@ Each `fails.md` documents failed attempts:
 
 ## 🔄 Retry List
 
-Problems that couldn't be solved within 30 minutes go to `retry-list/README.md`:
+Problems that couldn't be solved within 30 minutes go to `retry-list/README.md`
 
 **Spaced Repetition Schedule:**
 - First retry: 1-2 days after initial attempt
